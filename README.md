@@ -1,4 +1,4 @@
-`theme: minima`
+
 
 ![photo](https://github.com/Ekaterlna/Portfolio/blob/main/photo_2023-06-06_13-50-03.jpg)
 
