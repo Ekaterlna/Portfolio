@@ -1,6 +1,6 @@
 `theme: minima`
 
-![photo](https://github.com/Ekaterlna/prtfl/blob/main/photo_2023-06-06_13-50-03.jpg)
+![photo](https://github.com/Ekaterlna/Portfolio/blob/main/photo_2023-06-06_13-50-03.jpg)
 
 
 [# Оу, ну да, это я... Как я докатился до жизни такой? Чтож!]: #
